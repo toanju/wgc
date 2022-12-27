@@ -1,0 +1,2 @@
+app ALL= EXEC: NOPASSWD: /usr/bin/wg-quick up *
+app ALL= EXEC: NOPASSWD: /usr/bin/wg-quick down *
