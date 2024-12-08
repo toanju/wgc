@@ -1,5 +1,15 @@
 # Changelog
 
+## [0.4.2](https://github.com/toanju/wgc/compare/0.4.1...0.4.2) (2024-12-08)
+
+
+### Bug Fixes
+
+* update dependencies manually ([9cf7907](https://github.com/toanju/wgc/commit/9cf790725c433fbb22fa562cf036115c6dd8a13f))
+* update dependencies manually ([#99](https://github.com/toanju/wgc/issues/99)) ([d76fb61](https://github.com/toanju/wgc/commit/d76fb611360ceb4d1bd2dcf7c48b8a252a9b2d03))
+* Update renovate references to 3.21 ([b9fb671](https://github.com/toanju/wgc/commit/b9fb67161013385656530a535951fc2b15b28cc6))
+* Update renovate references to 3.21 ([#97](https://github.com/toanju/wgc/issues/97)) ([5110ad3](https://github.com/toanju/wgc/commit/5110ad300dee64df25c8fd86f5afbd7dfdd4f20c))
+
 ## [0.4.1](https://github.com/toanju/wgc/compare/0.4.0...0.4.1) (2024-06-23)
 
 
