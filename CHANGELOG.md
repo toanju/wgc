@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.4.3](https://github.com/toanju/wgc/compare/0.4.2...0.4.3) (2024-12-14)
+
+
+### Bug Fixes
+
+* iptables path changed ([0637fbc](https://github.com/toanju/wgc/commit/0637fbc71719ac578ceee5acec76321b427f426b))
+* iptables path changed ([#100](https://github.com/toanju/wgc/issues/100)) ([3b4d59a](https://github.com/toanju/wgc/commit/3b4d59acf02165d5f01ef859509a11d8ed560432))
+
 ## [0.4.2](https://github.com/toanju/wgc/compare/0.4.1...0.4.2) (2024-12-08)
 
 
