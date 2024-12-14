@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.4.4](https://github.com/toanju/wgc/compare/0.4.3...0.4.4) (2024-12-14)
+
+
+### Bug Fixes
+
+* wg-sudoers path to iptables fixed ([b3926e3](https://github.com/toanju/wgc/commit/b3926e3feead8ef1c1c894a4fe5e4e47dc906642))
+* wg-sudoers path to iptables fixed ([#102](https://github.com/toanju/wgc/issues/102)) ([adcd06e](https://github.com/toanju/wgc/commit/adcd06efc113dc495147d5032f3cf38c793d3768))
+
 ## [0.4.3](https://github.com/toanju/wgc/compare/0.4.2...0.4.3) (2024-12-14)
 
 
