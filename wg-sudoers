@@ -1,4 +1,4 @@
 app ALL= EXEC: NOPASSWD: /usr/bin/wg-quick up *
 app ALL= EXEC: NOPASSWD: /usr/bin/wg-quick down *
-app ALL= EXEC: NOPASSWD: /sbin/iptables -t nat -A POSTROUTING -o eth+ -j MASQUERADE
-app ALL= EXEC: NOPASSWD: /sbin/iptables -t nat -D POSTROUTING -o eth+ -j MASQUERADE
+app ALL= EXEC: NOPASSWD: /usr/sbin/iptables -t nat -A POSTROUTING -o eth+ -j MASQUERADE
+app ALL= EXEC: NOPASSWD: /usr/sbin/iptables -t nat -D POSTROUTING -o eth+ -j MASQUERADE
