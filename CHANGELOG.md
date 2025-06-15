@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.4.5](https://github.com/toanju/wgc/compare/0.4.4...0.4.5) (2025-06-15)
+
+
+### Miscellaneous Chores
+
+* release 0.4.5 ([6c7e905](https://github.com/toanju/wgc/commit/6c7e9056d71239c45599da4bf8e457896e8e3aa9))
+
 ## [0.4.4](https://github.com/toanju/wgc/compare/0.4.3...0.4.4) (2024-12-14)
 
 
