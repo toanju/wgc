@@ -6,7 +6,7 @@ ENV WG_INTERFACE=${WG_INTERFACE}
 # renovate: datasource=repology depName=alpine_3_22/iptables
 ENV IPTABLES_VERSION="1.8.11-r1"
 # renovate: datasource=repology depName=alpine_3_22/sudo
-ENV SUDO_VERSION="1.9.16_p2-r1"
+ENV SUDO_VERSION="1.9.17_p1-r0"
 # renovate: datasource=repology depName=alpine_3_22/wireguard-tools-wg-quick
 ENV WIREGUARD_TOOLS_WG_QUICK_VERSION="1.0.20250521-r0"
 
