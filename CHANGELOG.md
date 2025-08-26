@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.4.6](https://github.com/toanju/wgc/compare/0.4.5...0.4.6) (2025-08-26)
+
+
+### Bug Fixes
+
+* bump sudo version ([08982d5](https://github.com/toanju/wgc/commit/08982d5b46bd578f8218b14c39a783183997e62b))
+
 ## [0.4.5](https://github.com/toanju/wgc/compare/0.4.4...0.4.5) (2025-06-15)
 
 
