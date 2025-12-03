@@ -1,14 +1,14 @@
-FROM docker.io/alpine:3.22.2@sha256:4b7ce07002c69e8f3d704a9c5d6fd3053be500b7f1c69fc0d80990c2ad8dd412
+FROM docker.io/alpine:3.23.0@sha256:51183f2cfa6320055da30872f211093f9ff1d3cf06f39a0bdb212314c5dc7375
 
 ARG WG_INTERFACE=wgc0
 ENV WG_INTERFACE=${WG_INTERFACE}
 
-# renovate: datasource=repology depName=alpine_3_22/iptables
+# renovate: datasource=repology depName=alpine_3_23/iptables
 ENV IPTABLES_VERSION="1.8.11-r1"
-# renovate: datasource=repology depName=alpine_3_22/sudo
+# renovate: datasource=repology depName=alpine_3_23/sudo
 ENV SUDO_VERSION="1.9.17_p2-r0"
-# renovate: datasource=repology depName=alpine_3_22/wireguard-tools-wg-quick
-ENV WIREGUARD_TOOLS_WG_QUICK_VERSION="1.0.20250521-r0"
+# renovate: datasource=repology depName=alpine_3_23/wireguard-tools-wg-quick
+ENV WIREGUARD_TOOLS_WG_QUICK_VERSION="1.0.20250521-r1"
 
 RUN apk --no-cache add \
   iptables=${IPTABLES_VERSION} \
