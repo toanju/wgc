@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.4.7](https://github.com/toanju/wgc/compare/0.4.6...0.4.7) (2025-12-19)
+
+
+### Bug Fixes
+
+* **deps:** update docker.io/alpine:3.23.2 docker digest to 865b95f ([#156](https://github.com/toanju/wgc/issues/156)) ([a723ef4](https://github.com/toanju/wgc/commit/a723ef4f8658b5b40914135c94ef3078562c6d06))
+
 ## [0.4.6](https://github.com/toanju/wgc/compare/0.4.5...0.4.6) (2025-08-26)
 
 
