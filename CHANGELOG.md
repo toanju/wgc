@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.5.0](https://github.com/toanju/wgc/compare/0.4.9...0.5.0) (2026-06-13)
+
+
+### Features
+
+* **deps:** update docker.io/alpine docker tag to v3.24.0 ([5bfc3b2](https://github.com/toanju/wgc/commit/5bfc3b2e882287a52cc47c8ff4e8a3b0052d1494))
+* **deps:** update docker.io/alpine docker tag to v3.24.0 ([#186](https://github.com/toanju/wgc/issues/186)) ([e9bf116](https://github.com/toanju/wgc/commit/e9bf116657c683b877d8f8f69f12550b99256d76))
+
 ## [0.4.9](https://github.com/toanju/wgc/compare/0.4.8...0.4.9) (2026-04-16)
 
 
