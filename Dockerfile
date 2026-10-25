@@ -1,4 +1,4 @@
-FROM docker.io/alpine:3.24.2@sha256:294b683cb724975bec92580e1e685676bd4b50bda910ddb8c51d4cabeaec77e6
+FROM docker.io/alpine:3.24.3@sha256:be2656061b536c1883c4034790e21d0a09c5aaaf51968b89368a3c0371ea2c9a
 
 ARG WG_INTERFACE=wgc0
 ENV WG_INTERFACE=${WG_INTERFACE}
@@ -6,7 +6,7 @@ ENV WG_INTERFACE=${WG_INTERFACE}
 # renovate: datasource=repology depName=alpine_3_24/iptables
 ENV IPTABLES_VERSION="1.8.13-r0"
 # renovate: datasource=repology depName=alpine_3_24/sudo
-ENV SUDO_VERSION="1.9.17_p2-r1"
+ENV SUDO_VERSION="1.9.17_p2-r2"
 # renovate: datasource=repology depName=alpine_3_24/wireguard-tools-wg-quick
 ENV WIREGUARD_TOOLS_WG_QUICK_VERSION="1.0.20260223-r0"
 
