@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.5.6](https://github.com/toanju/wgc/compare/0.5.5...0.5.6) (2026-11-11)
+
+
+### Bug Fixes
+
+* **deps:** update docker.io/alpine:3.24.4 docker digest to f59abe6 ([3c63ee2](https://github.com/toanju/wgc/commit/3c63ee20bd1d32211e51f5a3ffb9581fdb18a8ae))
+* **deps:** update docker.io/alpine:3.24.4 docker digest to f59abe6 ([#213](https://github.com/toanju/wgc/issues/213)) ([59f6243](https://github.com/toanju/wgc/commit/59f624393204baf56182a94070d55dc2aad17212))
+
 ## [0.5.5](https://github.com/toanju/wgc/compare/0.5.4...0.5.5) (2026-11-07)
 
 
